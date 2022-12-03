@@ -24,4 +24,25 @@ nav img {width: 250px;}
     );
 background-repeat: no-repeat;
 }
- 
+
+.bg_fons {
+    width: 300px;
+    height: 200px;
+}
+
+.minecraft_bg {
+    background-image: url(https://www.minecraft.net/content/dam/games/minecraft/key-art/CC-Update-Part-II_600x360.jpg);
+    background-size: cover;
+}
+.csgo_bg {
+    background-image: url(https://i.ytimg.com/vi/tEp50zrqAXk/maxresdefault.jpg?7857057827);
+    background-size: cover;       
+}
+.dota2_bg {
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/23961316640579056/8BD8E23824D0CE43290017765AA71402945EB1E7/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+    background-size: cover;
+}
+.roblox_bg {
+    background-image: url(https://i.ytimg.com/vi/kQ-hPYUIePk/maxresdefault_live.jpg);
+     background-size: cover;
+}
